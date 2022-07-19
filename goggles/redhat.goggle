@@ -1,0 +1,9 @@
+! name: Red Hat
+! description: Favor Red Hat related results
+! public: true
+! author: Jack Waterworth
+! homepage: http://redhat.com
+! avatar: #a91f1f
+
+$site=redhat.com
+$discard,site=ubuntu.com
